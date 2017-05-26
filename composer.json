@@ -25,8 +25,7 @@
     "doctrine/annotations": "^1.4",
     "symfony/validator": "^3.2",
     "apache/log4php": "^2.3"
-    }
-
+    },
   "autoload": {
     "psr-4": {
       "com\\realexpayments\\hpp\\sdk\\": [
