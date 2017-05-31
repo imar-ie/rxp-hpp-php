@@ -1,6 +1,9 @@
 # Realex Payments HPP PHP SDK
 You can sign up for a free Realex Payments sandbox account at https://www.realexpayments.co.uk/developers
 
+Fork of realexpayments/rxp-hpp-php updated to work with Laravel 5.3
+
+
 ## Requirements ##
 - PHP >= 5.3.9
 - Composer (https://getcomposer.org/)
